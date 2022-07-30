@@ -16,8 +16,17 @@ After going to school at UMASS, I have found myself wondering about fun places t
 
 
 ## Functionality
-The homepage will have a list of places with photos. When users select the place name, they will be able to see a description of the place, ratings, reviews and even direction information on how to get there from the UMASS campus. I also would like to add a filter feature that will filter based on keywords describing the place (such as indoor/outdoor).
+The homepage will have a list of places with photos. When users select the place name, they will be able to see a description of the place, distance, ratings, reviews and even direction information on how to get there from the UMASS campus. I also would like to add a filter feature (if possible) that will filter based on keywords describing the place (such as indoor/outdoor). 
 
+Data used:
+- Name of place
+- Photos
+- Description
+- Distance
+- Rating
+- Keywords
+- Reviews
+- Directions
 
 
 
