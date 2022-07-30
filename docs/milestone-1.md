@@ -8,7 +8,7 @@ Application Name: ???
 3. [Functionality](#functionality)
 
 ## Team Overview
-Sanjana Sitaraman: 'sanjanasitaraman'
+Sanjana Sitaraman: `sanjanasitaraman`
 
 ## Application Idea
 
