@@ -1,7 +1,7 @@
 # **Milestone 1**
 Team Name: Sanjana's Group!
 
-Application Name: ???
+Application Name: Amherst Attractions
 
 ## Sections
 1. [Team Overview](#team-overview)
@@ -12,6 +12,7 @@ Application Name: ???
 Sanjana Sitaraman: `sanjanasitaraman`
 
 ## Application Idea
+
 
 ## Functionality
 
