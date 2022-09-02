@@ -2,6 +2,7 @@
 
 ## Sections
 1. [Data](#data)
+2. [User Interface](#user-interface)
 
 ## Data
 - Name of place
@@ -12,3 +13,5 @@
 - Keywords
 - Reviews
 - Directions
+
+## User Interface
